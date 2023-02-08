@@ -1,0 +1,17 @@
+1. )
+
+Node.js is a platform for building the i/o applications which are server-side event-driven and made using JavaScript.
+Express.js is a framework based on Node.js which is used for building web-application using approaches and principles of Node.js event-driven architecture.
+
+2.) 
+Speed	        
+ - Node.JS is faster due to asynchronous execution	Synchronous execution makes PHP slower
+ - Performance	Node.JS shows high performance due to the concurrency feature	
+- Pairing up with HHVM Virtual Machine makes PHP performance better but Node.JS is still superior
+
+Community	
+- Node.JS community is relatively small but active	
+- PHP has a bigger online community
+
+3.)
+npm’s configuration file housed in the root directory of your project

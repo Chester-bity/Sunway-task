@@ -1,0 +1,59 @@
+{
+    "companys": [
+        {
+            "id": 1,
+            "name":"Snowman Sdn. Bdn."
+        },
+        {
+            "id": 2,
+            "name":"Barney Sdn. Bdn."
+        }
+        
+    ],
+    "users":[
+        {
+            "id":1,
+            "name":"Elsa",
+            "age": 23,
+            "phone":"11111111",
+            "ic":"11111111",
+            "company_id": 1
+        },
+        {
+            "id":2,
+            "name":"Anna",
+            "age": 22,
+            "phone":"11111112",
+            "company_id": 1
+        },
+        {
+            "id":3,
+            "name":"Mr. Snowman",
+            "age": 30,
+            "phone":"11111113",
+            "company_id": 1
+        },
+        {
+            "id":4,
+            "age": 30,
+            "phone":"11111113",
+            "name":"Barney",
+            "company_id": 2
+        },
+        {
+            "id":5,
+            "age": 30,
+            "phone":"11111113",
+            "name":"Bop",
+            "company_id": 2
+        },
+        {
+            "id":6,
+            "name":"B.J.",
+            "age": 30,
+            "phone":"11111113",
+            "company_id": 2
+        }
+    ]
+
+}
